@@ -1,0 +1,2 @@
+compiled using -
+clang++ -std=c++20 main.cpp Implementations/Admin.cpp Implementations/Characters.cpp Implementations/Course.cpp
